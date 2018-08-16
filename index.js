@@ -24,3 +24,7 @@ function nowServing(katzDeliLine){
     var shift = katzDeliLine.shift(0);
   }
 }
+
+function currentLine(){
+  
+}
