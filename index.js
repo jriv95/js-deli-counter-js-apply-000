@@ -12,5 +12,5 @@ function nowServing(katzDeliLine){
 }*/
 
 function takeANumber(katzDeliLine, name){
-
+  katzDeliLine.push(name);
 }
