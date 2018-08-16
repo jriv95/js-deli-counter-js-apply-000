@@ -8,8 +8,8 @@ function nowServing(katzDeliLine){
     return "There is nobody waiting to be served!";
   }
   else{
-    var shift = katzDeliLine.shift(1);
-    return "Currently serving " + katzDeliLine.shift(1) +".";
+    var shift = katzDeliLine.shift(0);
+    return "Currently serving " + katzDeliLine.shift(0) +".";
   }
 }
 
