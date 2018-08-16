@@ -11,6 +11,6 @@ function nowServing(katzDeliLine){
   }
 }*/
 
-function takeANumber(katzDeliLine){
+function takeANumber(katzDeliLine, name){
 
 }
