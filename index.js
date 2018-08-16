@@ -9,6 +9,7 @@ function nowServing(katzDeliLine){
   }
   else{
     var shift = katzDeliLine.shift(0);
+    return "Currently serving" + katzDeliLine.shift() +".";
   }
 }
 
